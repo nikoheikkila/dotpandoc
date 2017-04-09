@@ -1,3 +1,3 @@
 [submodule "templates"]
-	path = templates
-	url = https://github.com/nikoheikkila/pandoc-templates.git
+    path = templates
+    url = https://github.com/nikoheikkila/pandoc-templates.git
